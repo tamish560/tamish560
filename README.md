@@ -2,32 +2,35 @@
 
 # Tamish Mhatre
 
-Builder from India. Open source developer tools, AI agents, and frontend engineering.
+21, builder from India. I make open source developer tools with AI agents.
 
 </div>
 
 ---
 
-## What I'm building
+## What I am building now
 
-- **[Relay](https://github.com/valtors/relay)** - Local MCP server with 40 tools for files, images, PDFs, web, and workflows. One binary, no stitching servers together. Go, MIT.
-- **[Reflow](https://github.com/valtors/reflow)** - SSR-safe responsive toolkit for TypeScript. Breakpoints, container queries, fluid typography, user preferences. Works in React, Vue, Svelte, Solid, Qwik, and more. MIT.
+- **[Relay](https://github.com/valtors/relay)** - A local MCP server with 40 tools. Files, images, PDFs, web, workflows. One binary. Run it with `npx userelay`. MIT.
+- **[Reflow](https://github.com/valtors/reflow)** - SSR-safe responsive toolkit for TypeScript. React, Vue, Svelte, Solid, Qwik, vanilla. MIT.
 
-Both live under **[Valtors](https://github.com/valtors)**, where I make developer tools that are boring on purpose and work out of the box.
+Both live under **[Valtors](https://github.com/valtors)**. Boring tech on purpose. Single binaries. Works out of the box.
 
-## Tech
+## How I build
 
-Go, TypeScript, React, Node.js. SQLite over Postgres. Stdlib over frameworks. Single binaries over microservices.
+I am not a coder. I use AI agents to design, write, and ship software. That is the point of Relay: the same tools that let me move fast can live on your desktop as a local MCP server.
 
 ## Connect
 
 - GitHub: [@tamish560](https://github.com/tamish560)
 - Org: [Valtors](https://github.com/valtors)
+- Discord: [discord.gg/megallm](https://discord.gg/megallm)
+- X: [@TamishMhatre](https://x.com/TamishMhatre)
+- LinkedIn: [in/tamish-mhatre-885317243](https://linkedin.com/in/tamish-mhatre-885317243)
 - npm: [userelay](https://www.npmjs.com/package/userelay), [reflow](https://www.npmjs.com/package/reflow)
 
-## Currently
+## Now
 
-Shipping Relay v0.4 and growing Reflow's framework coverage. Always looking for contributors.
+Shipping Relay v0.4.x. Always looking for real contributors and feedback.
 
 <div align="center">
 
