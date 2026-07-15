@@ -11,7 +11,7 @@
 
 ### Open Source
 
-I contribute to projects I find interesting. Recent work includes fixes to ClickHouse vector search, ollama GGUF parsing, and Agent Orchestrator session management. Everything under [Valtors](https://github.com/valtors) is MIT licensed.
+I contribute to projects I find interesting. Everything under [Valtors](https://github.com/valtors) is MIT licensed.
 
 ### Links
 
