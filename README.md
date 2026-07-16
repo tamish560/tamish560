@@ -11,7 +11,7 @@
 
 ### Open Source
 
-I contribute to projects I find interesting. Everything under [Valtors](https://github.com/valtors) is MIT licensed.
+Contributed to [ClickHouse](https://github.com/ClickHouse/ClickHouse/pull/110452) - fixed vector search parameter validation to prevent empty ANN results. Everything under [Valtors](https://github.com/valtors) is MIT licensed.
 
 ### Links
 
