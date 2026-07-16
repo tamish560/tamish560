@@ -1,18 +1,22 @@
-## Hey, I'm Tamish
+## hey, i'm tamish
 
-21, developer from India. I build open source developer tools with a focus on Go, TypeScript, and MCP infrastructure.
+21. i build tools that don't lie to you.
 
-### Projects
+i can't write code. i ship using AI agents. that's not a limitation, it's a different way of building. who in this time codes by hand.
 
-- **[mcprobe](https://github.com/tamish560/mcprobe)** - Security scanner for MCP servers. Detects prompt injection, tool shadowing, and drift. Single binary, zero deps.
-- **[Relay](https://github.com/valtors/relay)** - Go MCP server with 40+ tools for file ops, search, and system control. [npm](https://www.npmjs.com/package/userelay)
-- **[Reflow](https://github.com/valtors/reflow)** - TypeScript responsive image and component SSR toolkit. [npm](https://www.npmjs.com/package/usereflow)
-- **[Observer](https://github.com/valtors/observer)** - Go MCP proxy for agent observability. SQLite + stdio.
+i run [valtors](https://github.com/valtors) - open source developer tools for the MCP ecosystem. everything MIT licensed, zero telemetry, your data stays on your machine.
 
-### Open Source
+### what i built
 
-Contributed to [ClickHouse](https://github.com/ClickHouse/ClickHouse/pull/110452) - fixed vector search parameter validation to prevent empty ANN results. Everything under [Valtors](https://github.com/valtors) is MIT licensed.
+- **[mcprobe](https://github.com/tamish560/mcprobe)** - security scanner for MCP servers. your server is probably vulnerable. this tells you how. single Go binary, zero deps.
+- **[Relay](https://github.com/valtors/relay)** - one MCP server, 40 tools, one binary. other people install 5 servers to do what this does alone. [npm: userelay](https://www.npmjs.com/package/userelay)
+- **[Reflow](https://github.com/valtors/reflow)** - responsive toolkit for TypeScript. 8 frameworks, same API, no SSR breakage. [npm: usereflow](https://www.npmjs.com/package/usereflow)
+- **[Observer](https://github.com/valtors/observer)** - proxy that logs every tool call your AI agent makes. it watches silently. you see what happened.
 
-### Links
+### shipped
 
-[GitHub](https://github.com/tamish560) | [Valtors](https://github.com/valtors) | [X](https://x.com/TamishMhatre) | [LinkedIn](https://www.linkedin.com/in/tamish-mhatre-885317243) | [npm](https://www.npmjs.com/~tamish560)
+17 PRs merged across ClickHouse, labstack/echo, agent-orchestrator, and more. [contributions](https://github.com/tamish560?tab=overview&from=2026-01-01)
+
+### links
+
+[github](https://github.com/tamish560) | [valtors](https://github.com/valtors) | [x](https://x.com/TamishMhatre) | [linkedin](https://www.linkedin.com/in/tamish-mhatre-885317243) | [npm](https://www.npmjs.com/~tamish560)
